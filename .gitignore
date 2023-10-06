@@ -5,7 +5,7 @@
 postgres/
 
 .env
-
+/src/messages-ws
 # Logs
 logs
 *.log
